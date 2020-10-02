@@ -1,2 +1,5 @@
 # HacktoberFest-2020
-repository to learn git and add python programs
+
+## repository to learn git and add python programs
+
+### Please add python programs related to common data structures and algorithms in this repository
